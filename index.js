@@ -11,7 +11,6 @@ app.post('/', async (req, res) =>{
         const post = await Post.create({author, title, content, picture})
         res.json(post)
     }catch (e){
-        console.log(e)
         res.status(500).json(e)
     }
 })
