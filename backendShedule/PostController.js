@@ -50,6 +50,7 @@ class PostController {
             const deletePost = await Post.findByIdAndDelete(id)
             return res.json(deletePost)
         }catch (e){
+            console.log(e)
             res.status(500).json(e)
         }
     }
