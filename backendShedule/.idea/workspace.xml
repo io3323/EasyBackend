@@ -17,7 +17,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$/.." value="ggggg" />
+        <entry key="$PROJECT_DIR$/.." value="test" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -44,7 +44,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -85,11 +90,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.dev" />
         <item itemvalue="npm.start" />
         <item itemvalue="npm.server" />
-        <item itemvalue="npm.dev" />
-        <item itemvalue="npm.dev" />
-        <item itemvalue="npm.start" />
       </list>
     </recent_temporary>
   </component>
@@ -105,7 +108,10 @@
       <workItem from="1673084833453" duration="7469000" />
       <workItem from="1673131258288" duration="2219000" />
       <workItem from="1673165426274" duration="75000" />
-      <workItem from="1673165772011" duration="2805000" />
+      <workItem from="1673165772011" duration="7515000" />
+      <workItem from="1673527560670" duration="2000" />
+      <workItem from="1673528861403" duration="16000" />
+      <workItem from="1673548644974" duration="2981000" />
     </task>
     <task id="LOCAL-00001" summary="firstCommit">
       <created>1673132161329</created>
@@ -162,5 +168,9 @@
     <MESSAGE value="test commit" />
     <MESSAGE value="update backendFile" />
     <option name="LAST_COMMIT_MESSAGE" value="update backendFile" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
