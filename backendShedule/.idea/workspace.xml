@@ -49,7 +49,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.ChangelistConflict" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -111,7 +111,7 @@
       <workItem from="1673165772011" duration="7515000" />
       <workItem from="1673527560670" duration="2000" />
       <workItem from="1673528861403" duration="16000" />
-      <workItem from="1673548644974" duration="2981000" />
+      <workItem from="1673548644974" duration="4307000" />
     </task>
     <task id="LOCAL-00001" summary="firstCommit">
       <created>1673132161329</created>
